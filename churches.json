@@ -1,0 +1,138 @@
+[
+  {
+    "church": "Harvester Mission Central Church",
+    "emoji": "⛪",
+    "color": "#c9a84c",
+    "location": "San Mateo, Rizal, Philippines",
+    "address": "Ph5 Old Army Rd,Brgy Silangan San Mateo, 1870 Rizal, Pilipinas",
+    "senior pastor": "Rev. Il Ro Kim",
+    "Msnr.": "Woon No Yun",
+    "cooperative pastor": "Dr. Woo young",
+    "Ministers": "Lyn Castro, Shezel Oludin, Yejin Kim, Jerome Maquiñana, Beverly Mondijar",
+    "contact": "(02) 8252-8238",
+    "image": "https://scontent.fmnl17-8.fna.fbcdn.net/v/t39.30808-6/226026637_6347077971972693_8726406389927596984_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=1d70fc&_nc_eui2=AeGYTCIpgff_vQs8FrQLvYfwU_NW4ZURcAtT81bhlRFwC3QNbj-eUTdQ1t395k6xi3HXSgRGLw-Y_aA5hYVUKD7b&_nc_ohc=09y8RcWsemgQ7kNvwH0YQ52&_nc_oc=AdkWk4leFiWx6yXoN8AxeaTPkB88jJnWPNeHDt2zWkbDitzavmWYGrczWOFGflxrFXs&_nc_zt=23&_nc_ht=scontent.fmnl17-8.fna&_nc_gid=fo1d1Qq8joGeZyHs8R9L_g&_nc_ss=8&oh=00_AfzjrC0E2Dib0E-059GoDg5x1HE95TQ6U_I8pDSrWpObmQ&oe=69AD61E4",
+    "Fb pages": "https://www.facebook.com/harvestercentralmahanaim",
+    "tagline": "𝐉𝐞𝐫𝐞𝐦𝐢𝐚𝐡 𝟏:𝟓“𝘉𝘦𝘧𝘰𝘳𝘦 𝘐 𝘧𝘰𝘳𝘮𝘦𝘥 𝘺𝘰𝘶 𝘪𝘯 𝘵𝘩𝘦 𝘸𝘰𝘮𝘣 𝘐 𝘬𝘯𝘦𝘸 𝘺𝘰𝘶, 𝘣𝘦𝘧𝘰𝘳𝘦 𝘺𝘰𝘶 𝘸𝘦𝘳𝘦 𝘣𝘰𝘳𝘯 𝘐 𝘴𝘦𝘵 𝘺𝘰𝘶 𝘢𝘱𝘢𝘳𝘵; 𝘐 𝘢𝘱𝘱𝘰𝘪𝘯𝘵𝘦𝘥 𝘺𝘰𝘶 𝘢𝘴 𝘢 𝘱𝘳𝘰𝘱𝘩𝘦𝘵 𝘵𝘰 𝘵𝘩𝘦 𝘯𝘢𝘵𝘪𝘰𝘯𝘴..",
+    "description": "Harvester Mission Central Church located at M557+M44, Eartheaven Rd, San Mateo, 1870 Rizal, Philippines promotes a united community and spiritual growth through their meaningful activities. The church is known for their community service programs , innovative worship methods , and in-depth biblical teaching that is relevant to the modern age. It provides solid spiritual guidance and serves as a haven of hope for members and visitors. The organized structure and warm welcome to all who seek faith have solidified their reputation as a leading religious institution in the region..",
+    "events": [
+      { "title": "Sunday Worship Service", "date": "Every Sunday", "time": "9:00 AM" },
+      { "title": "Prayer & Fasting",       "date": "Every Wednesday", "time": "6:00 PM" },
+      { "title": "Youth Night",            "date": "Every Friday",    "time": "6:30 PM" }
+    ]
+  },
+  {
+    "church": "Harvester Mission Buntong Palay Church",
+    "emoji": "⛪",
+    "color": "#64b5f6",
+    "location": "San Mateo, Rizal, Philippines",
+    "address": "Buntong Palay,Brgy Silangan,San Mateo Rizal",
+    "pastor": "Pastor Romy Matobato, Pastor Ruel Siena",
+    "ministers":"Dulce Amor Protacio",
+    "contact": "",
+    "image": "https://scontent.fmnl17-3.fna.fbcdn.net/v/t39.30808-6/480755183_951074613818785_1487810368837398834_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=dd6889&_nc_eui2=AeHibvccBZDWqS_d7papRQN4cVcW7L1UF2xxVxbsvVQXbCuxydv7wK0R_9175uCG2CvcTdqTWhgYzaJFQplACr4q&_nc_ohc=GHRJYYtZiN4Q7kNvwG567lp&_nc_oc=AdmFnwVJZ27PnflPtrkCsO9naxWSkMjxOHsPgVc4HXTDvrUCsT5nD8d2zFWP-NfbZLM&_nc_zt=23&_nc_ht=scontent.fmnl17-3.fna&_nc_gid=eL-eGS4nsCoqP-_n6BsHCQ&_nc_ss=8&oh=00_Afxoc0M-2cJDkHWr8hXbrVbd_B5T3eHMNwmIAbDOPeMilg&oe=69ADEEBD",
+    "Fb pages": "",
+    "tagline": "Grace for every season of life.",
+    "description": "HMCBP Church is a warm, welcoming congregation that believes in the transforming power of God's grace. We are passionate about community, the Scriptures, and serving it's community.",
+    "events": [
+      { "title": "Morning Worship",      "date": "Every Sunday",   "time": "8:00 AM" },
+      { "title": "Bible Study",          "date": "Every Tuesday",  "time": "7:00 PM" },
+      { "title": "Community Outreach",   "date": "3rd Saturday",   "time": "8:00 AM" }
+    ]
+  },
+  {
+    "church": "Harvester Mission Maganda Church",
+    "emoji": "⛪",
+    "color": "#64b5f6",
+    "location": "Metro Manila, Philippines",
+    "address": "384 Bonanza Ph3. Fortune, Marikina City",
+    "pastor": "Pastor Rudolph Pantalla",
+    "minister":"Tchr. Genevieve Pantalla",
+    "contact": "09950654479",
+    "image": "https://scontent.fmnl17-3.fna.fbcdn.net/v/t1.6435-9/184878731_3799122260125353_6832726526001360212_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=25d718&_nc_eui2=AeFdyFCLYtG_w62dFJ07Sojw8m1W0IMQDVHybVbQgxANUUAwKZxV0btiEAr2od8MbKHAHcqm-4F48T88mTI1Fv5g&_nc_ohc=5S3qQP0SXIMQ7kNvwFQNCNc&_nc_oc=AdnW5tFN-ouGlnjFzdKGtj-THY_O1__BHfSW2c-7qod49edYumgid8vw0S0lPE8CDfc&_nc_zt=23&_nc_ht=scontent.fmnl17-3.fna&_nc_gid=gXfFBJMxymTS2UNgEtrrrg&_nc_ss=8&oh=00_AfxH_362-CqDdaQOWS-XyPpyBeD6QCry7j1lGfRyPUXWFA&oe=69CF0D8E",
+    "Fb pages": "https://www.facebook.com/share/g/1AWq3JSQSV/",
+    "tagline": "Living For Christ Commission.",
+    "description": "Harvester Mission Maganda Church serves as a welcoming place of worship where the community gathers for prayer, fellowship, and spiritual growth, with a strong focus on evangelism and discipleship..",
+    "events": [
+      { "title": "Main Worship",      "date": "Every Sunday",   "time": "10:00 AM" },
+      { "title": "Kids Worship",          "date": "Every Sunday",  "time": "8:30 aM" },
+      { "title": "Early Morning",   "date": "Mon-Fri",   "time": "5:30 AM" },
+      { "title": "Adult Bible Study",   "date": "Every Wednesday",   "time": "6:00 PM" }, 
+      { "title": "Youth Bible Study",   "date": "Every Saturday",   "time": "5:00 PM" }
+    ]
+  },
+  {
+    "church": "Harvester Mission San Diego Church",
+    "emoji": "⛪",
+    "color": "#81c784",
+    "location": "Batangas, Philippines",
+    "address": "",
+    "pastor": "",
+    "minister": "Julius Oludin",
+    "contact": "",
+    "image": "https://scontent.fmnl17-5.fna.fbcdn.net/v/t39.30808-6/498239914_1041803481219783_8953237269724474005_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=7b2446&_nc_eui2=AeF-FcrYda_RG0Fte2zaSqY6WDkHNNjizSBYOQc02OLNICcZv44BXCKc3wlqhAxmpsf1UNNO_AibCZIjGYbfglCX&_nc_ohc=y7wfJZZO208Q7kNvwHgoinR&_nc_oc=AdnhWxEdwHcve2JGq4yjZOFwJwfAoBcvMBzxfnYsoDB8ujASs6GVQMSZGaj6f1wwg8M&_nc_zt=23&_nc_ht=scontent.fmnl17-5.fna&_nc_gid=Ejg1ZpxEi43oBPZPxACbuQ&_nc_ss=8&oh=00_AfyC6m8i9AlyWh6JBrWIROBqAb_M6QUv-WYIq9ke417jeQ&oe=69ADE65E",
+    "Fb pages": "",
+    "tagline": "He is the bread that satisfies.",
+    "description": "HMSDC is a Spirit-filled church with a heart for families, healing, and holistic discipleship. We believe that every person matters to God and that His Word brings life and wholeness.",
+    "events": [
+      { "title": "Praise & Worship",   "date": "Every Sunday",  "time": "10:00 AM" },
+      { "title": "Couples Fellowship", "date": "3rd Saturday",  "time": "5:00 PM"  },
+      { "title": "Leadership Summit",  "date": "Quarterly",     "time": "9:00 AM"  }
+    ]
+  },
+  {
+    "church": "Harvester Mission Agape Church",
+    "emoji": "⛪",
+    "color": "#f48fb1",
+    "location": "San Mateo, Rizal, Philippines",
+    "address": "",
+    "minister": "Diane Magno",
+    "contact": "",
+    "Fb pages": "",
+    "image": "https://scontent.fmnl17-6.fna.fbcdn.net/v/t1.6435-9/83478233_3876988002315048_3220926095599599616_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=7b2446&_nc_eui2=AeFEcGtmdLokp5qQxA9Foweja2217TpV6ytrbbXtOlXrKxF23XyiQXxOvZWrdHybxcyqgWaFIvZm6csd7hOQVF4a&_nc_ohc=63V9kfNCk2oQ7kNvwF-Gmcd&_nc_oc=Adnj-A97l24Wj1GkARvcqwmutIER5XsrWhrD-cYu9WB71MAazKtZYviuDVh-JSFB8OU&_nc_zt=23&_nc_ht=scontent.fmnl17-6.fna&_nc_gid=-Jsfpt0FsmWwerk-Dt8p7w&_nc_ss=8&oh=00_AfyN9lKwv_s_gSGdjKKGTPkfSBXyGsfknmAdjigatPFXuw&oe=69CF87D9",
+    "tagline": "Every nation. Every generation.",
+    "description": "HMAC committed to making disciples who make disciples. With multiple services and ONE discipleship groups, we equip believers to live out their faith boldly in every sphere of society.",
+    "events": [
+      { "title": "Sunday Celebration",        "date": "Every Sunday", "time": "7:00 AM & 9:30 AM" },
+      { "title": "ONE Discipleship Group",    "date": "Saturdays",    "time": "10:00 AM"           },
+      { "title": "Victory Group (weekdays)",  "date": "Weekdays",     "time": "Varies"             }
+    ]
+  },
+  {
+    "church": "Harvester Mission Banaba Church",
+    "emoji": "⛪",
+    "color": "#ffb74d",
+    "location": "San Mateo, Rizal, Philippines",
+    "address": "",
+    "pastor": "Pastor Jerry Bayang",
+    "minister": "",
+    "contact": "",
+    "image": "https://scontent.fmnl17-8.fna.fbcdn.net/v/t39.30808-6/226026637_6347077971972693_8726406389927596984_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=1d70fc&_nc_eui2=AeGYTCIpgff_vQs8FrQLvYfwU_NW4ZURcAtT81bhlRFwC3QNbj-eUTdQ1t395k6xi3HXSgRGLw-Y_aA5hYVUKD7b&_nc_ohc=09y8RcWsemgQ7kNvwH0YQ52&_nc_oc=AdkWk4leFiWx6yXoN8AxeaTPkB88jJnWPNeHDt2zWkbDitzavmWYGrczWOFGflxrFXs&_nc_zt=23&_nc_ht=scontent.fmnl17-8.fna&_nc_gid=fo1d1Qq8joGeZyHs8R9L_g&_nc_ss=8&oh=00_AfzjrC0E2Dib0E-059GoDg5x1HE95TQ6U_I8pDSrWpObmQ&oe=69AD61E4",",
+    "Fb pages": "",
+    "tagline": "Shining His light in every darkness.",
+    "description": "HMBC is anchored in compassion and evangelism. We serve the urban poor, minister to children, and train the next generation of faith leaders who will shine God's light into every community.",
+    "events": [
+      { "title": "Holy Communion Sunday", "date": "First Sunday", "time": "9:30 AM" },
+      { "title": "Children's Church",     "date": "Every Sunday", "time": "9:00 AM" },
+      { "title": "Missions Night",        "date": "Last Friday",  "time": "7:00 PM" }
+    ]
+  },
+  {
+    "church": "Harvester Mission Somang Church",
+    "emoji": "⛪",
+    "color": "#b39ddb",
+    "location": "San Mateo, Rizal, Philippines",
+    "address": "",
+    "pastor": "",
+    "minister": "Bryan Arcueno",
+    "contact": "",
+    "image": "https://scontent.fmnl17-8.fna.fbcdn.net/v/t39.30808-6/226026637_6347077971972693_8726406389927596984_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=1d70fc&_nc_eui2=AeGYTCIpgff_vQs8FrQLvYfwU_NW4ZURcAtT81bhlRFwC3QNbj-eUTdQ1t395k6xi3HXSgRGLw-Y_aA5hYVUKD7b&_nc_ohc=09y8RcWsemgQ7kNvwH0YQ52&_nc_oc=AdkWk4leFiWx6yXoN8AxeaTPkB88jJnWPNeHDt2zWkbDitzavmWYGrczWOFGflxrFXs&_nc_zt=23&_nc_ht=scontent.fmnl17-8.fna&_nc_gid=fo1d1Qq8joGeZyHs8R9L_g&_nc_ss=8&oh=00_AfzjrC0E2Dib0E-059GoDg5x1HE95TQ6U_I8pDSrWpObmQ&oe=69AD61E4",",
+    "Fb pages": "",
+    "tagline": "Rooted in the Word. Growing in love.",
+    "description": "HMSC is dedicated to expository preaching and deep biblical formation. Our goal is to see every member rooted in Scripture, equipped for ministry, and growing in Christlike character every day.",
+    "events": [
+      { "title": "Word & Worship Sunday",   "date": "Every Sunday",  "time": "9:00 AM"  },
+      { "title": "Men's Prayer Breakfast",  "date": "4th Saturday",  "time": "7:30 AM"  },
+      { "title": "Women's Ministry",        "date": "Last Sunday",   "time": "2:00 PM"  }
+    ]
+  }
+]
