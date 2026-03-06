@@ -1,0 +1,102 @@
+{
+  "name": "Harvester Mission Fellowship Church",
+  "short_name": "HMFC Bible",
+  "description": "Read the Bible, explore church events, and connect with Harvester Mission Fellowship churches across the Philippines.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#c9a84c",
+  "background_color": "#0e1117",
+  "lang": "en-PH",
+  "dir": "ltr",
+  "categories": ["religion", "lifestyle", "education"],
+
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+
+  "screenshots": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "HMFC Bible App – Read Scripture"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "HMFC Bible App – Church Events"
+    }
+  ],
+
+  "shortcuts": [
+    {
+      "name": "Read the Bible",
+      "short_name": "Bible",
+      "description": "Open the Bible reader",
+      "url": "./index.html?view=read",
+      "icons": [{ "src": "icon.png", "sizes": "192x192", "type": "image/png" }]
+    },
+    {
+      "name": "Churches",
+      "short_name": "Churches",
+      "description": "Browse all Harvester Mission churches",
+      "url": "./index.html?view=home",
+      "icons": [{ "src": "icon.png", "sizes": "192x192", "type": "image/png" }]
+    },
+    {
+      "name": "Mission Plan",
+      "short_name": "Events",
+      "description": "View upcoming church events and activities",
+      "url": "./index.html?view=activities",
+      "icons": [{ "src": "icon.png", "sizes": "192x192", "type": "image/png" }]
+    },
+    {
+      "name": "My Notes",
+      "short_name": "Notes",
+      "description": "View your Bible notes",
+      "url": "./index.html?view=notes",
+      "icons": [{ "src": "icon.png", "sizes": "192x192", "type": "image/png" }]
+    }
+  ],
+
+  "share_target": {
+    "action": "./index.html",
+    "method": "GET",
+    "params": {
+      "title": "title",
+      "text": "text",
+      "url": "url"
+    }
+  },
+
+  "prefer_related_applications": false,
+  "id": "hmfc-bible-app"
+}
